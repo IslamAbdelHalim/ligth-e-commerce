@@ -1,0 +1,17 @@
+.totalPrice {
+  font-weight: 900;
+}
+
+.totalPrice span {
+  display: block;
+}
+
+mat-list-item {
+  width: fit-content;
+}
+
+.d-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
